@@ -1,0 +1,35 @@
+_repo: In-Convent-WallsThe-Story-of-the-Despensers_27958
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Irwin, M. (Madelaine)
+    alias: Irwin, Madelaine
+    gutenberg_agent_id: '25691'
+    url: http://www.gutenberg.org/2009/agents/25691
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holt, Emily Sarah
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '9787'
+    url: http://www.gutenberg.org/2009/agents/9787
+description: ''
+gutenberg_issued: '2009-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Edward II, 1307-1327 -- Fiction'
+title: 'In Convent Walls
+
+  The Story of the Despensers'
+url: http://www.gutenberg.org/ebooks/27958
